@@ -6,7 +6,7 @@ import java.io.PrintStream;
 import java.util.Scanner;
 
 /**
- * Revenge of the Pancakes
+ * Revenge of the  (https://code.google.com/codejam/contest/6254486/dashboard#s=p1)
  *
  * Problem
 

@@ -5,7 +5,7 @@ import java.io.PrintStream;
 import java.util.Scanner;
 
 /**
- * Counting Sheep
+ * Counting Sheep (https://code.google.com/codejam/contest/6254486/dashboard#s=p0)
  *
  * Problem
 
