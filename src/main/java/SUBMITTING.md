@@ -1,7 +1,7 @@
-When submitting a solution to code jam written in Java, it is required that:
-* The file is named Solution.java
-* It contains a public class called Solution
-* This class contains a 'public static void main(String[] args)' method
-* it reads information from System.in
-* and writes to System.out
-* it has no package instruction at the top of the file (meaning it is at a root package)
+When submitting a solution to code jam written in Java, the file needs to:
+* be named "Solution.java"
+* contain a public class called Solution
+* contain a 'public static void main(String[] args)' method
+* read data from System.in
+* write data to System.out
+* have no package instruction at the top (meaning it is at a root package)
